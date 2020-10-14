@@ -6,7 +6,7 @@ A conference call implementation using WebRTC, Socket.io and Node.js.
 - Run `npm ci`
 - `cd src`
 - `node app.js`
-
+- `localhost:3000`
 
 # Features
 - Multi-participants
